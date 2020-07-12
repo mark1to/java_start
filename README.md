@@ -1,2 +1,12 @@
-# java_start
-First steps with learning Java
+# GitHub Actions
+
+Simple project for github actions in action)
+
+## Actions types
+
+* build
+* add label
+* verify label
+* draft release
+
+Test
