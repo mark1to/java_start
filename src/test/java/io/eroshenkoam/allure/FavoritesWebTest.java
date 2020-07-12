@@ -19,7 +19,7 @@ import org.junit.jupiter.api.Test;
 @Page("/user/favorites")
 public class FavoritesWebTest {
 
-    private static final String NOTE_TEXT_2 = "Cool place";
+    private static final String NOTE_TEXT = "Cool place";
 
     private final WebSteps steps = new WebSteps();
 
